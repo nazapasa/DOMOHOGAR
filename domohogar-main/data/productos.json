@@ -1,0 +1,404 @@
+[
+    {
+        "id": 0,
+        "nombre": "Focos led inteligente Nexxt NHB-C1203",
+        "images": [
+            "https://coolboxpe.vtexassets.com/arquivos/ids/180863-800-auto?v=637496254402200000&width=800&height=auto&aspect=true",
+            "https://coolboxpe.vtexassets.com/arquivos/ids/180864-800-auto?v=637496254489170000&width=800&height=auto&aspect=true",
+            "https://coolboxpe.vtexassets.com/arquivos/ids/180865-800-auto?v=637496254601030000&width=800&height=auto&aspect=true"
+        ],
+        "marca": "NEXXT",
+        "precio": 109.9,
+        "categoria": "Iluminación Smart",
+        "relacionados": [
+            1,
+            2
+        ],
+        "detalle": "Los focos inteligentes Nexxt A19 puede emparejarse fácilmente a través de la aplicación Nexxt Home. Actívala por voz, mediante Amazon o Google Assistant.",
+        "stock": 10
+    },
+    {
+        "id": 1,
+        "nombre": "Foco led inteligente Xiaomi Mi Smart Bulb Essential",
+        "images": [
+            "https://coolboxpe.vtexassets.com/arquivos/ids/206027-800-auto?v=637814018532370000&width=800&height=auto&aspect=true",
+            "https://coolboxpe.vtexassets.com/arquivos/ids/206028-800-auto?v=637814018658800000&width=800&height=auto&aspect=true",
+            "https://coolboxpe.vtexassets.com/arquivos/ids/217245-800-auto?v=637921333051800000&width=800&height=auto&aspect=true"
+        ],
+        "marca": "XIAOMI",
+        "precio": 69.0,
+        "categoria": "Iluminación Smart",
+        "relacionados": [
+            1,
+            2
+        ],
+        "detalle": "Con el foco Inteligente Xiaomi Mi Smart Led Bulb Essential, ilumina tu hogar con más de 16 millones de colores, con distinto brillo y temperatura. Ajusta la iluminación y personalízala para darle ambiente a cualquier habitación. Este foco smart Xiaomi cuenta con un módulo integrado que le permite conectarse a Wifi, a través de la aplicación Mi Home. Además, admite control por voz; a través de Amazon Alexa y el Asistente de Google.",
+        "stock": 10
+    },
+    {
+        "id": 2,
+        "nombre": "Foco musical Opalux OP-BT9W 9W",
+        "images": [
+            "https://coolboxpe.vtexassets.com/arquivos/ids/193258-800-auto?v=637708590459030000&width=800&height=auto&aspect=true",
+            "https://coolboxpe.vtexassets.com/arquivos/ids/193259-800-auto?v=637708590507070000&width=800&height=auto&aspect=true",
+            "https://coolboxpe.vtexassets.com/arquivos/ids/193260-800-auto?v=637708590549830000&width=800&height=auto&aspect=true"
+        ],
+        "marca": "OPALUX",
+        "precio": 61.9,
+        "categoria": "Iluminación Smart",
+        "relacionados": [
+            1,
+            2
+        ],
+        "detalle": "Diversión e iluminación con el Foco Led musical Opalux OP-BT9W, cuenta con conexión Bluetooth, contrólalo de manera remota.",
+        "potencia": "9W",
+        "app": "iLink",
+        "stock": 10
+    },
+    {
+        "id": 3,
+        "nombre": "Foco inteligente Philips Hue Filamento Edison ST64",
+        "images": [
+            "https://coolboxpe.vtexassets.com/arquivos/ids/194789-800-auto?v=637733902883270000&width=800&height=auto&aspect=true",
+            "https://coolboxpe.vtexassets.com/arquivos/ids/194790-800-auto?v=637733903110900000&width=800&height=auto&aspect=true",
+            "https://coolboxpe.vtexassets.com/arquivos/ids/194791-800-auto?v=637733903250200000&width=800&height=auto&aspect=true"
+        ],
+        "marca": "PHILIPS HUE",
+        "precio": 99.0,
+        "categoria": "Iluminación Smart",
+        "relacionados": [
+            1,
+            2
+        ],
+        "detalle": "El foco smart Philips Hue Filamento Edison ST64 agrega un toque vintage a tu iluminación convencional. Esta luz LED simula una bombilla incandescente alargada.",
+        "stock": 10
+    },
+    {
+        "id": 4,
+        "nombre": "Lámpara inteligente Xiaomi Mi Bedside Lamp",
+        "images": [
+            "https://coolboxpe.vtexassets.com/arquivos/ids/210564-800-auto?v=637866225047800000&width=800&height=auto&aspect=true",
+            "https://coolboxpe.vtexassets.com/arquivos/ids/197182-800-auto?v=637765057287500000&width=800&height=auto&aspect=true",
+            "https://coolboxpe.vtexassets.com/arquivos/ids/210566-800-auto?v=637866225219000000&width=800&height=auto&aspect=true"
+        ],
+        "marca": "XIAOMI",
+        "precio": 189.9,
+        "categoria": "Iluminación Smart",
+        "relacionados": [
+            1,
+            2
+        ],
+        "detalle": "La lámpara Mi Bedside Lamp 2 se sincroniza con tu smartphone mediante bluetooth y también se conecta a la red wifi de tu hogar.",
+        "stock": 10
+    },
+    {
+        "id": 5,
+        "nombre": "Foco Led Wiz Wifi A60 9W Luz Varios Colores Ajustable",
+        "images": [
+            "https://sodimac.scene7.com/is/image/SodimacPeru/3957802_01?fmt=jpg&fit=fit,1&wid=420&hei=420",
+            "https://sodimac.scene7.com/is/image/SodimacPeru/3957802_12?fmt=jpg&fit=fit,1&wid=420&hei=420",
+            "https://sodimac.scene7.com/is/image/SodimacPeru/3957802_26?fmt=jpg&fit=fit,1&wid=420&hei=420"
+        ],
+        "marca": "Wiz",
+        "precio": 59.9,
+        "categoria": "Iluminación Smart",
+        "relacionados": [
+            1,
+            2
+        ],
+        "detalle": "Foco inteligente Wiz, se conecta con Alexa y Google Home Mini.",
+        "stock": 10
+    },
+    {
+        "id": 6,
+        "nombre": "Parlante inteligente Google Nest Mini con control de voz, negro",
+        "images": [
+            "https://coolboxpe.vtexassets.com/arquivos/ids/186716-1200-auto?v=637599077024700000&width=1200&height=auto&aspect=true",
+            "https://coolboxpe.vtexassets.com/arquivos/ids/211772-1200-auto?v=637879044756800000&width=1200&height=auto&aspect=true",
+            "https://coolboxpe.vtexassets.com/arquivos/ids/211774-1200-auto?v=637879044982830000&width=1200&height=auto&aspect=true"
+        ],
+        "marca": "GOOGLE",
+        "precio": 139.00,
+        "categoria": "Parlantes Inteligentes",
+        "relacionados": [
+            1,
+            2
+        ],
+        "detalle": "¡Pásala bien con el Parlante inteligente Google Nest Mini con control de voz, negro desde donde estés!",
+        "stock": 10
+    },
+    {
+        "id": 7,
+        "nombre": "Altavoz inteligente Xiaomi Smart Speaker IR, con asistente de voz Google, negro",
+        "images": [
+            "https://coolboxpe.vtexassets.com/arquivos/ids/221466-1200-auto?v=637941239497070000&width=1200&height=auto&aspect=true",
+            "https://coolboxpe.vtexassets.com/arquivos/ids/221465-1200-auto?v=637941239487070000&width=1200&height=auto&aspect=true",
+            "https://coolboxpe.vtexassets.com/arquivos/ids/221464-1200-auto?v=637941239486430000&width=1200&height=auto&aspect=true"
+        ],
+        "marca": "XIAOMI",
+        "precio": 179.00,
+        "categoria": "Parlantes Inteligentes",
+        "relacionados": [
+            1,
+            2
+        ],
+        "detalle": "Con el altavoz inteligente Xiaomi Smart Speaker IR disfruta de todas las posibilidades del mundo smart.",
+        "stock": 10
+    },
+    {
+        "id": 8,
+        "nombre": "Altavoz inteligente Amazon Echo Dot 4ta generación, control de voz con Alexa, negro",
+        "images": [
+            "https://coolboxpe.vtexassets.com/arquivos/ids/211688-1200-auto?v=637878765738570000&width=1200&height=auto&aspect=true",
+            "https://coolboxpe.vtexassets.com/arquivos/ids/211689-1200-auto?v=637878765842230000&width=1200&height=auto&aspect=true",
+            "https://coolboxpe.vtexassets.com/arquivos/ids/211691-1200-auto?v=637878766090930000&width=1200&height=auto&aspect=true"
+        ],
+        "marca": "AMAZON",
+        "precio": 259.90,
+        "categoria": "Parlantes Inteligentes",
+        "relacionados": [
+            1,
+            2
+        ],
+        "detalle": "Organiza cada paso de tu día con el altavoz inteligente Amazon Echo Dot 4ta generación y Alexa. ¡Úsalo con tu voz!",
+        "stock": 10
+    },
+    {
+        "id": 9,
+        "nombre": "Pantalla inteligente Amazon Echo Show 8 control de voz Alexa",
+        "images": [
+            "https://coolboxpe.vtexassets.com/arquivos/ids/193187-1200-auto?v=637707752014930000&width=1200&height=auto&aspect=true",
+            "https://coolboxpe.vtexassets.com/arquivos/ids/193190-1200-auto?v=637707752083970000&width=1200&height=auto&aspect=true",
+            "https://coolboxpe.vtexassets.com/arquivos/ids/193192-1200-auto?v=637707752129330000&width=1200&height=auto&aspect=true"
+        ],
+        "marca": "AMAZON",
+        "precio": 459.90,
+        "categoria": "Parlantes Inteligentes",
+        "relacionados": [
+            1,
+            2
+        ],
+        "detalle": "Modernidad y elegancia para tu hogar con la pantalla inteligente Amazon Echo Show 8. Disfruta de imágenes de calidad, gracias a la resolución de 1280 x 800 px.",
+        "stock": 10
+    },
+    {
+        "id": 10,
+        "nombre": "Pantalla inteligente HD Echo Show 10 3ra generación, con movimiento y Alexa, blanco",
+        "images": [
+            "https://coolboxpe.vtexassets.com/arquivos/ids/193099-1200-auto?v=637705151950030000&width=1200&height=auto&aspect=true",
+            "https://coolboxpe.vtexassets.com/arquivos/ids/193100-1200-auto?v=637705151972230000&width=1200&height=auto&aspect=true",
+            "https://coolboxpe.vtexassets.com/arquivos/ids/193309-1200-auto?v=637709586220100000&width=1200&height=auto&aspect=true"
+        ],
+        "marca": "AMAZON",
+        "precio": 1699.90,
+        "categoria": "Parlantes Inteligentes",
+        "relacionados": [
+            1,
+            2
+        ],
+        "detalle": "La pantalla inteligente HD Echo Show 10 brindará modernidad y elegancia a tu hogar, podrás utilizarlo en la cocina, escritorio o la habitación que prefieras.",
+        "stock": 10
+    },
+    {
+        "id": 11,
+        "nombre": "Altavoz inteligente Amazon Echo Dot 4ta generación con reloj, control de voz con Alexa, blanco",
+        "images": [
+            "https://coolboxpe.vtexassets.com/arquivos/ids/189241-1200-auto?v=637650083934600000&width=1200&height=auto&aspect=true",
+            "https://coolboxpe.vtexassets.com/arquivos/ids/189243-1200-auto?v=637650085516670000&width=1200&height=auto&aspect=true",
+            "https://coolboxpe.vtexassets.com/arquivos/ids/211410-1200-auto?v=637877076287400000&width=1200&height=auto&aspect=true"
+        ],
+        "marca": "AMAZON",
+        "precio": 299.90,
+        "categoria": "Parlantes Inteligentes",
+        "relacionados": [
+            1,
+            2
+        ],
+        "detalle": "Organiza cada paso de tu día con el altavoz inteligente Amazon Echo Dot 4ta generación y Alexa. ¡Úsalo con tu voz!",
+        "stock": 10
+    },
+    {
+        "id": 12,
+        "nombre": "Amplificador de señal Mi Wifi AC1200",
+        "images": [
+            "https://sodimac.scene7.com/is/image/SodimacPeru/4067843_01?fmt=jpg&fit=fit,1&wid=800&hei=800",
+            "https://sodimac.scene7.com/is/image/SodimacPeru/4067843_03?fmt=jpg&fit=fit,1&wid=800&hei=800",
+            "https://sodimac.scene7.com/is/image/SodimacPeru/4067843_04?fmt=jpg&fit=fit,1&wid=800&hei=800"
+        ],
+        "marca": "XIAOMI",
+        "precio": 109,
+        "categoria": "WiFi",
+        "relacionados": [1, 2],
+        "detalle": "Modelo: RA75. Ram: 64mb. Estándares: IEEE 802.11ac / n / a 5 GHz, IEEE 802.11n / b / g 2.4 Ghz. Velocidades de WiFi: 5 GHz: 867 Mbps (802.11ac, 2 * 2 @ 80MHz) 2.4 GHz: 300 Mbs (802.11n, 2 * 2 @ 40MH). Modos: Modo extensor de rango Modo de punto de acceso. Seguridad inalámbrica: WPA-PSK / WPA2-P..",
+        "stock": 10
+    },
+    {
+        "id": 13,
+        "nombre": "Mesh AC1200Mbps 2 Nodes Vektor2400-AC",
+        "images": [
+            "https://sodimac.scene7.com/is/image/SodimacPeru/4030036_01?fmt=jpg&fit=fit,1&wid=800&hei=800",
+            "https://sodimac.scene7.com/is/image/SodimacPeru/4030036_21?fmt=jpg&fit=fit,1&wid=800&hei=800",
+            "https://sodimac.scene7.com/is/image/SodimacPeru/4030036_02?fmt=jpg&fit=fit,1&wid=800&hei=800"
+        ],
+        "marca": "NEXXT",
+        "precio": 259,
+        "categoria": "WiFi",
+        "relacionados": [1, 2],
+        "detalle": "Esta solución ofrece 112m2 extra de transmisión de la señal con la integración de cada nodo, lo cual se traduce en un alcance mucho mayor al de un router convencional.",
+        "stock": 10
+    },
+    {
+        "id": 14,
+        "nombre": "Amplificador de Cobertura Wi-Fi Mesh Deco M4 3-Pack",
+        "images": [
+            "https://sodimac.scene7.com/is/image/SodimacPeru/4018788_1?fmt=jpg&fit=fit,1&wid=800&hei=800",
+            "https://sodimac.scene7.com/is/image/SodimacPeru/4018788_3?fmt=jpg&fit=fit,1&wid=800&hei=800",
+            "https://sodimac.scene7.com/is/image/SodimacPeru/4018788_4?fmt=jpg&fit=fit,1&wid=800&hei=800"
+        ],
+        "marca": "NEXXT",
+        "precio": 729.90,
+        "categoria": "WiFi",
+        "relacionados": [1, 2],
+        "detalle": "Deco usa un sistema de unidades para lograr una cobertura Wi-Fi perfecta para el hogar ? ¡Elimina las zonas de baja señal de una vez por todas! Con la avanzada tecnología Deco Mesh, los dispositivos Deco trabajan juntos para formar una red unificada en tu hogar, con el mismo nombre de red. Los dispositivos cambian automáticamente entre Decos a medida que te desplazas por tu hogar para obtener las velocidades más rápidas posibles.",
+        "stock": 10
+    },
+    {
+        "id": 15,
+        "nombre": "Extensor de Rango WiFi 300 Mbps MW300RE",
+        "images": [
+            "https://sodimac.scene7.com/is/image/SodimacPeru/3506940_01?fmt=jpg&fit=fit,1&wid=800&hei=800",
+            "https://sodimac.scene7.com/is/image/SodimacPeru/3506940_12?fmt=jpg&fit=fit,1&wid=800&hei=800",
+            "https://sodimac.scene7.com/is/image/SodimacPeru/3506940_17?fmt=jpg&fit=fit,1&wid=800&hei=800"
+        ],
+        "marca": "Mercusys",
+        "precio": 79,
+        "categoria": "WiFi",
+        "relacionados": [1, 2],
+        "detalle": "Ideal para ampliar una red inalámbrica de alta velocidad escalable o para conectar múltiples dispositivos.",
+        "stock": 10
+    },
+    {
+        "id": 16,
+        "nombre": "Extensor Powerline WiFi AV600 300 Mbps TL-WPA4220",
+        "images": [
+            "https://sodimac.scene7.com/is/image/SodimacPeru/2581876_01?fmt=jpg&fit=fit,1&wid=800&hei=800",
+            "https://sodimac.scene7.com/is/image/SodimacPeru/2581876_21?fmt=jpg&fit=fit,1&wid=800&hei=800",
+            "https://sodimac.scene7.com/is/image/SodimacPeru/2581876_31?fmt=jpg&fit=fit,1&wid=800&hei=800"
+        ],
+        "marca": "TP-LINK",
+        "precio": 179,
+        "categoria": "WiFi",
+        "relacionados": [1, 2],
+        "detalle": "Dimensiones: 9.4 x 5.4 x 4 cm, El TL-WPA4220 transforma el circuito eléctrico existente de su hogar en una red de alta velocidad sin necesidad de cables nuevos o perforación., Tipo: Extensor de cobertura, Velocidad: 300Mbps",
+        "stock": 10
+    },
+    {
+        "id": 17,
+        "nombre": "Adaptador Inalámbrico USB 150 m",
+        "images": [
+            "https://sodimac.scene7.com/is/image/SodimacPeru/2267152_01?fmt=jpg&fit=fit,1&wid=800&hei=800",
+            "https://sodimac.scene7.com/is/image/SodimacPeru/2267152_12?fmt=jpg&fit=fit,1&wid=800&hei=800",
+            "https://sodimac.scene7.com/is/image/SodimacPeru/2267152_13?fmt=jpg&fit=fit,1&wid=800&hei=800"
+        ],
+        "marca": "TP-LINK",
+        "precio": 59,
+        "categoria": "WiFi",
+        "relacionados": [1, 2],
+        "detalle": "Completamente probado para trabajar con el Raspberry Pi 2 y Raspberry Pi Modelo B +. La tecnología MIMO hace tarifas de transmisión inalámbrica de hasta 150Mbps. La tecnología del CCA realza su stablility señal automáticamente evitando conflictos de canal. Quick Secure Setup, cumple con WPS para la seguridad inalámbrica sin problemas. Encriptación de seguridad inalámbrica fácilmente en un empuje del botón de QSS.",
+        "stock": 10
+    },
+    {
+        "id": 18,
+        "nombre": "CERRADURA SMART CON TARJETA UNICOR ARES COLOR CROMO/NEGRO",
+        "images": [
+            "https://ripleype.imgix.net/https%3A%2F%2Fdpq25p1ucac70.cloudfront.net%2Fseller-place-files%2Fmrkl-files%2F1380%2FELECTROHOGAR%2FFOTOS-RIPLEY-05-01.jpg?w=750&h=555&ch=Width&auto=format&cs=strip&bg=FFFFFF&q=60&trimcolor=FFFFFF&trim=color&fit=fillmax&ixlib=js-1.1.0&s=fd24e96829e5ec0dc8e6535ef396ba4e",
+            "https://ripleype.imgix.net/https%3A%2F%2Fdpq25p1ucac70.cloudfront.net%2Fseller-place-files%2Fmrkl-files%2F1380%2FELECTROHOGAR%2FFOTOS-RIPLEY-05-02.jpg?w=750&h=555&ch=Width&auto=format&cs=strip&bg=FFFFFF&q=60&trimcolor=FFFFFF&trim=color&fit=fillmax&ixlib=js-1.1.0&s=cb64a3ed5be585b358cb943a163b0637",
+            "https://ripleype.imgix.net/https%3A%2F%2Fdpq25p1ucac70.cloudfront.net%2Fseller-place-files%2Fmrkl-files%2F1380%2FELECTROHOGAR%2FFOTOS-RIPLEY-05-03.jpg?w=750&h=555&ch=Width&auto=format&cs=strip&bg=FFFFFF&q=60&trimcolor=FFFFFF&trim=color&fit=fillmax&ixlib=js-1.1.0&s=cb184892ee0b5929ca4cbb3703ec615f"
+        ],
+        "marca": "UNICOR",
+        "precio": 1199,
+        "categoria": "Seguridad Smart",
+        "relacionados": [1, 2],
+        "detalle": "Las mejores cerraduras bluetooth, con sensor de huella dactilar, para mantener tu casa segura y elegante en Ripley Perú. ¡Compra aquí!",
+        "stock": 10
+        },
+    
+        {
+            "id": 19,
+            "nombre": "XIAOMI CÁMARA MI SECURITY HOME 360° 1080P",
+            "images": [
+                "https://ripleype.imgix.net/https%3A%2F%2Fdpq25p1ucac70.cloudfront.net%2Fseller-place-files%2Fmrkl-files%2F1225%2FELECTROHOGAR%2FCamara-1-c_000016670761_8.jpeg?w=750&h=555&ch=Width&auto=format&cs=strip&bg=FFFFFF&q=60&trimcolor=FFFFFF&trim=color&fit=fillmax&ixlib=js-1.1.0&s=3d1b7c8ba65edd8bb3771f9bc4c882af",
+                "https://ripleype.imgix.net/https%3A%2F%2Fdpq25p1ucac70.cloudfront.net%2Fseller-place-files%2Fmrkl-files%2F1225%2FELECTROHOGAR%2FCamara-3-c_000035655557_10.jpeg?w=750&h=555&ch=Width&auto=format&cs=strip&bg=FFFFFF&q=60&trimcolor=FFFFFF&trim=color&fit=fillmax&ixlib=js-1.1.0&s=5068e0d358e2dfdd02d4e1f50d918dc0",
+                "https://ripleype.imgix.net/https%3A%2F%2Fdpq25p1ucac70.cloudfront.net%2Fseller-place-files%2Fmrkl-files%2F1225%2FELECTROHOGAR%2FCamara-4-c_000036288162_11.jpeg?w=750&h=555&ch=Width&auto=format&cs=strip&bg=FFFFFF&q=60&trimcolor=FFFFFF&trim=color&fit=fillmax&ixlib=js-1.1.0&s=8ffcd1944c561ee557be91f2bb3074a6"
+            ],
+            "marca": "XIAOMI",
+            "precio": 189.9,
+            "categoria": "Seguridad Smart",
+            "relacionados": [1, 2],
+            "detalle": " Visión nocturna por infrarrojos | Detección de movimientos por IA",
+            "stock": 10
+        },
+
+        {
+            "id": 20,
+            "nombre": "CÁMARA WIFI PARA SEGURIDAD DE EXTERIORES TP-LINK TAPO C310",
+            "images": [
+                "https://ripleype.imgix.net/https%3A%2F%2Fdpq25p1ucac70.cloudfront.net%2Fseller-place-files%2Fmrkl-files%2F604%2FSALUD%2FWhatsApp-Image-2022-06-23-at-2_084658957320_8.jpeg?w=750&h=555&ch=Width&auto=format&cs=strip&bg=FFFFFF&q=60&trimcolor=FFFFFF&trim=color&fit=fillmax&ixlib=js-1.1.0&s=dbbad040b996a1fb5f4a62eaddfce283",
+                "https://hiraoka.com.pe/media/catalog/product/cache/a357cb11a228eb6f7f15c0ee1ff203af/1/_/1_normal_1599194402144s.jpg",
+                "https://hiraoka.com.pe/media/catalog/product/cache/a357cb11a228eb6f7f15c0ee1ff203af/4/_/4_normal_1599194441148o.jpg"
+            ],
+            "marca": "TAPO",
+            "precio": 385,
+            "categoria": "Seguridad Smart",
+            "relacionados": [1, 2],
+            "detalle": " Con 3MP de alta resolución, la TP-Link Tapo C310 ofrece imágenes vívidas que ayudan a la identificación y el reconocimiento desde lejos. Detección de movimiento y notificaciones: Reciba notificaciones instantáneas y verifique las fuentes cuando se detecte movimiento",
+            "stock": 10
+        },
+
+        {
+            "id": 21,
+            "nombre": "CERRADURA SMART C002D PREMIUM FORMA PERILLA",
+            "images": [
+                "https://ripleype.imgix.net/https%3A%2F%2Fdpq25p1ucac70.cloudfront.net%2Fseller-place-files%2Fmrkl-files%2F990%2FMEJORAMIENTO%20DEL%20HOGAR%2FHcaf99dbf753e41d19a455019d3362557N_163943258643_1.jpeg?w=750&h=555&ch=Width&auto=format&cs=strip&bg=FFFFFF&q=60&trimcolor=FFFFFF&trim=color&fit=fillmax&ixlib=js-1.1.0&s=8b7c6f0c02457c86274683256fde77bf",
+                "https://ripleype.imgix.net/https%3A%2F%2Fdpq25p1ucac70.cloudfront.net%2Fseller-place-files%2Fmrkl-files%2F990%2FMEJORAMIENTO%20DEL%20HOGAR%2FHd7147090bb9d48d4894fa3c260256ea8M_163947877665_3.jpeg?w=750&h=555&ch=Width&auto=format&cs=strip&bg=FFFFFF&q=60&trimcolor=FFFFFF&trim=color&fit=fillmax&ixlib=js-1.1.0&s=037cb5997a3ab67ce0a149ac15fed5be",
+                "https://ripleype.imgix.net/https%3A%2F%2Fdpq25p1ucac70.cloudfront.net%2Fseller-place-files%2Fmrkl-files%2F990%2FMEJORAMIENTO%20DEL%20HOGAR%2FH02af855746aa4db0a7551a7d5afec7e0n_163947396668_3.jpeg?w=750&h=555&ch=Width&auto=format&cs=strip&bg=FFFFFF&q=60&trimcolor=FFFFFF&trim=color&fit=fillmax&ixlib=js-1.1.0&s=65377ea17246c149d8fa8d3c6c6618f8"
+            ],
+            "marca": "C002D",
+            "precio": 929,
+            "categoria": "Seguridad Smart",
+            "relacionados": [1, 2],
+            "detalle": "Te traemos lo último en seguridad para tu hogar, la Cerradura Smart Modelo C002D con funciones sofisticadas de desbloqueo.",
+            "stock": 10
+        },
+
+        {
+            "id": 22,
+            "nombre": "CÁMARA DE SEGURIDAD BBCAM ISMART",
+            "images": [
+                "https://ripleype.imgix.net/https%3A%2F%2Fdpq25p1ucac70.cloudfront.net%2Fseller-place-files%2Fmrkl-files%2F824%2FMEJORAMIENTO%20DEL%20HOGAR%2FBBCAM_120223516510_3.jpeg?w=750&h=555&ch=Width&auto=format&cs=strip&bg=FFFFFF&q=60&trimcolor=FFFFFF&trim=color&fit=fillmax&ixlib=js-1.1.0&s=9fcf7eaef4e29322f266f0580e566c63",
+                "https://ripleype.imgix.net/https%3A%2F%2Fdpq25p1ucac70.cloudfront.net%2Fseller-place-files%2Fmrkl-files%2F824%2FMEJORAMIENTO%20DEL%20HOGAR%2FBBCAM_120233060844_1.jpeg?w=750&h=555&ch=Width&auto=format&cs=strip&bg=FFFFFF&q=60&trimcolor=FFFFFF&trim=color&fit=fillmax&ixlib=js-1.1.0&s=110c82cc7ef36ec583a3c590e71d4bcd"
+            ],
+            "marca": "ISMART",
+            "precio": 329,
+            "categoria": "Seguridad Smart",
+            "relacionados": [1, 2],
+            "detalle": "CAMARA DE SEGURIDAD CON CONEXIÓN WIF CON SONIDO BILATERAL, IMAGEN FULL HD. Visión: 360° . Visión nocturna: Hasta 10 metros. BOTON DE LLAMADA. MUSICA DE ARRULLO PARA BEBÉ. SENSOR DE MOVIMIENTO,SONIDO, TEMPERATURA Y HUMEDAD.",
+            "stock": 10
+        },
+
+        {
+            "id": 23,
+            "nombre": "CÁMARA IP LC1C FULL HD 1080P OUTDOOR IP65 2000 LÚMENES - BLANCO",
+            "images": [
+                "https://ripleype.imgix.net/https%3A%2F%2Fdpq25p1ucac70.cloudfront.net%2Fseller-place-files%2Fmrkl-files%2F1131%2FELECTROHOGAR%2FEZVIZ-LC1C-1080P-Blanco-6971744239404-01_213216933525_68.jpeg?w=750&h=555&ch=Width&auto=format&cs=strip&bg=FFFFFF&q=60&trimcolor=FFFFFF&trim=color&fit=fillmax&ixlib=js-1.1.0&s=02795316ca63e279504b5b53bd3c0577",
+                "https://ripleype.imgix.net/https%3A%2F%2Fdpq25p1ucac70.cloudfront.net%2Fseller-place-files%2Fmrkl-files%2F1131%2FELECTROHOGAR%2FEZVIZ-LC1C-1080P-Blanco-6971744239404-02_213331710071_30.jpeg?w=750&h=555&ch=Width&auto=format&cs=strip&bg=FFFFFF&q=60&trimcolor=FFFFFF&trim=color&fit=fillmax&ixlib=js-1.1.0&s=9ee764c47d098077a32d79a322f0a5c8",
+                "https://ripleype.imgix.net/https%3A%2F%2Fdpq25p1ucac70.cloudfront.net%2Fseller-place-files%2Fmrkl-files%2F1131%2FELECTROHOGAR%2FEZVIZ-LC1C-1080P-Blanco-6971744239404-03_213333111218_30.jpeg?w=750&h=555&ch=Width&auto=format&cs=strip&bg=FFFFFF&q=60&trimcolor=FFFFFF&trim=color&fit=fillmax&ixlib=js-1.1.0&s=8334b9d740dbdc153f0a6a7b32efaf3d"
+            ],
+            "marca": "EZVIZ",
+            "precio": 580,
+            "categoria": "Seguridad Smart",
+            "relacionados": [1, 2],
+            "detalle": "El EZVIZ LC1C es una cámara de seguridad y un reflector para exteriores en un paquete increíble, que satisface sus necesidades de seguridad e iluminación nocturna en el patio, la entrada y más",
+            "stock": 10
+        }
+]
